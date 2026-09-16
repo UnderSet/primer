@@ -1,3 +1,11 @@
+# *This* project does not accept contributions.
+
+Please fork from this or contribute to upstream instead.
+
+Original content goes as follows.
+
+---
+
 # Contributing to the Primer theme
 
 Hi there! We're thrilled that you'd like to contribute to the Primer theme. Your help is essential for keeping it great.
